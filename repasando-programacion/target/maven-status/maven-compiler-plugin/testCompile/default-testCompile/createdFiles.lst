@@ -1,0 +1,7 @@
+com\example\esme\controller\PersonaControllerTest.class
+com\example\esme\model\ModelTest.class
+com\example\esme\controller\RolControllerTest.class
+com\example\esme\entity\EntityTest.class
+com\example\esme\service\PersonaServideTest.class
+com\example\esme\RepasandoProgramacionApplicationTests.class
+com\example\esme\service\RolServiceTest.class
