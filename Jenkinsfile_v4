@@ -11,7 +11,7 @@ pipeline {
             steps {
                 timeout(time: 2, unit: 'MINUTES'){
                     git 'https://github.com/Davinson13/jenkins.git'
-                    git 'https://github.com/Davinson13/jenkins/tree/main/repasando-programacion.git'
+                    //git 'https://github.com/Davinson13/jenkins/tree/main/repasando-programacion.git'
                 }
             }
         }
